@@ -1,19 +1,9 @@
-# Kontest Reminder
-
-This is a chrome extension which will never let you forget about upcoming coding contest. To download click [here](https://chrome.google.com/webstore/detail/kontest-reminder/imdlnagpdjhelkapllclmdogjobpoihg)
-
-
-## Authors
-
-- [Nisarg](https://github.com/nisarg0)
-- [Anjali](https://github.com/anju218)
-
-
+# CodeGo
 
   
-## Demo
+![Screenshot (104)](https://user-images.githubusercontent.com/45756011/131231754-fb75fcd7-b014-4adf-b821-50238e4d57a8.png)
+![Screenshot (105)](https://user-images.githubusercontent.com/45756011/131231795-bc436c86-6cba-4289-b1c5-37c4aee019c1.png)
 
-![demo images](https://user-images.githubusercontent.com/60577767/122977158-af159a00-d3b2-11eb-8f82-720516945a20.gif)
 
 
 ## Features
@@ -24,7 +14,7 @@ One click :
 - Reminder one 1-min before contest.
 
   
-## Installation For Developers
+## Installation
 
 Install kontest-reminder with npm
 
@@ -52,11 +42,5 @@ For **production build:**
   Click load unpackaged
   select newly created build folder.
 ```
-
-You are good to go.
-    
-## Support
-
-For support, email nisarggogate212@gmail.com or anjalirengade23@gmail.com.
 
   
